@@ -16,4 +16,4 @@
 
 for counter in range(1, 11, 1):
     print("3 *", counter, "=", 3*counter)
-    pass
+
